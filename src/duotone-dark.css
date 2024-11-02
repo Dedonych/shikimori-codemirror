@@ -1,0 +1,26 @@
+.cm-s-solarized.cm-s-light .CodeMirror-search-field{ background: #2a2734;  color:#6c6783 }
+.cm-s-solarized.cm-s-light.CodeMirror { background: #2a2734; color: #6c6783; color-scheme: dark;}
+.cm-s-solarized.cm-s-light div.CodeMirror-selected { background: #545167!important; }
+.cm-s-solarized.cm-s-light .CodeMirror-gutters { background: #2a2734; border-right: 0px; }
+.cm-s-solarized.cm-s-light .CodeMirror-linenumber { color: #545167; }
+
+.cm-s-solarized.cm-s-light .CodeMirror-cursor { border-left: 1px solid #ffad5c;  border-right: .5em solid #ffad5c;  opacity: .5; }
+.cm-s-solarized.cm-s-light .CodeMirror-activeline-background { background: #363342;  opacity: .5;}
+.cm-s-solarized.cm-s-light .cm-fat-cursor .CodeMirror-cursor { background: #ffad5c;  opacity: .5;}
+
+.cm-s-solarized.cm-s-light span.cm-atom, .cm-s-solarized.cm-s-light span.cm-number, .cm-s-solarized.cm-s-light span.cm-keyword, .cm-s-solarized.cm-s-light span.cm-variable, .cm-s-solarized.cm-s-light span.cm-attribute, .cm-s-solarized.cm-s-light span.cm-quote, .cm-s-solarized.cm-s-light span.cm-hr, .cm-s-solarized.cm-s-light span.cm-link { color: #ffcc99; }
+
+.cm-s-solarized.cm-s-light span.cm-property { color: #9a86fd; }
+.cm-s-solarized.cm-s-light span.cm-punctuation, .cm-s-solarized.cm-s-light span.cm-unit, .cm-s-solarized.cm-s-light span.cm-negative { color: #e09142; }
+.cm-s-solarized.cm-s-light span.cm-string { color: #ffb870; }
+.cm-s-solarized.cm-s-light span.cm-operator { color: #ffad5c; }
+.cm-s-solarized.cm-s-light span.cm-positive { color: #6a51e6; }
+
+.cm-s-solarized.cm-s-light span.cm-variable-2, .cm-s-solarized.cm-s-light span.cm-variable-3, .cm-s-solarized.cm-s-light span.cm-type, .cm-s-solarized.cm-s-light span.cm-string-2, .cm-s-solarized.cm-s-light span.cm-url { color: #7a63ee; }
+.cm-s-solarized.cm-s-light span.cm-def, .cm-s-solarized.cm-s-light span.cm-tag, .cm-s-solarized.cm-s-light span.cm-builtin, .cm-s-solarized.cm-s-light span.cm-qualifier, .cm-s-solarized.cm-s-light span.cm-header, .cm-s-solarized.cm-s-light span.cm-em { color: #eeebff; }
+.cm-s-solarized.cm-s-light span.cm-bracket, .cm-s-solarized.cm-s-light span.cm-comment { color: #a7a5b2; }
+
+.cm-s-solarized.cm-s-light span.cm-error, .cm-s-solarized.cm-s-light span.cm-invalidchar { color: #f00; }
+
+.cm-s-solarized.cm-s-light span.cm-header { font-weight: normal; }
+.cm-s-solarized.cm-s-light .CodeMirror-matchingbracket { text-decoration: underline; color: #eeebff !important; } 

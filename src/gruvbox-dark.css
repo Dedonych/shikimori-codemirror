@@ -1,0 +1,31 @@
+.cm-s-solarized.cm-s-light .CodeMirror-search-field{ background-color: #282828; color: #bdae93; }
+.cm-s-solarized.cm-s-light.CodeMirror {background-color: #282828; color: #bdae93;  color-scheme: dark;}
+.cm-s-solarized.cm-s-light .CodeMirror-gutters {background: #282828; border-right: 0px;}
+.cm-s-solarized.cm-s-light .CodeMirror-linenumber {color: #7c6f64;}
+.cm-s-solarized.cm-s-light .CodeMirror-cursor { border-left: 1px solid #ebdbb2; }
+.cm-s-solarized.cm-s-light.cm-fat-cursor .CodeMirror-cursor { background-color: #8e8d8875 !important; }
+.cm-s-solarized.cm-s-light .cm-animate-fat-cursor { background-color: #8e8d8875 !important; }
+.cm-s-solarized.cm-s-light div.CodeMirror-selected { background: #928374; }
+.cm-s-solarized.cm-s-light span.cm-meta { color: #83a598; }
+
+.cm-s-solarized.cm-s-light span.cm-comment { color: #928374; }
+.cm-s-solarized.cm-s-light span.cm-number, span.cm-atom { color: #d3869b; }
+.cm-s-solarized.cm-s-light span.cm-keyword { color: #f84934; }
+
+.cm-s-solarized.cm-s-light span.cm-variable { color: #ebdbb2; }
+.cm-s-solarized.cm-s-light span.cm-variable-2 { color: #ebdbb2; }
+.cm-s-solarized.cm-s-light span.cm-variable-3, .cm-s-solarized.cm-s-light span.cm-type { color: #fabd2f; }
+.cm-s-solarized.cm-s-light span.cm-operator { color: #ebdbb2; }
+.cm-s-solarized.cm-s-light span.cm-callee { color: #ebdbb2; }
+.cm-s-solarized.cm-s-light span.cm-def { color: #ebdbb2; }
+.cm-s-solarized.cm-s-light span.cm-property { color: #ebdbb2; }
+.cm-s-solarized.cm-s-light span.cm-string { color: #b8bb26; }
+.cm-s-solarized.cm-s-light span.cm-string-2 { color: #8ec07c; }
+.cm-s-solarized.cm-s-light span.cm-qualifier { color: #8ec07c; }
+.cm-s-solarized.cm-s-light span.cm-attribute { color: #8ec07c; }
+
+.cm-s-solarized.cm-s-light .CodeMirror-activeline-background { background: #3c3836; }
+.cm-s-solarized.cm-s-light .CodeMirror-matchingbracket { background: #928374; color:#282828 !important; }
+
+.cm-s-solarized.cm-s-light span.cm-builtin { color: #fe8019; }
+.cm-s-solarized.cm-s-light span.cm-tag { color: #fe8019; }

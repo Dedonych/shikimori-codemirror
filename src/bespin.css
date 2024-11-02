@@ -1,0 +1,25 @@
+.cm-s-solarized.cm-s-light .CodeMirror-search-field{ background: #28211c;  color:#9d9b97 }
+.cm-s-solarized.cm-s-light.CodeMirror {background: #28211c; color: #9d9b97; color-scheme: dark; }
+.cm-s-solarized.cm-s-light div.CodeMirror-selected {background: #59554f !important;}
+.cm-s-solarized.cm-s-light .CodeMirror-gutters {background: #28211c; border-right: 0px;}
+.cm-s-solarized.cm-s-light .CodeMirror-linenumber {color: #666666;}
+.cm-s-solarized.cm-s-light .CodeMirror-cursor {border-left: 1px solid #797977 !important;}
+
+.cm-s-solarized.cm-s-light span.cm-comment {color: #937121;}
+.cm-s-solarized.cm-s-light span.cm-atom {color: #9b859d;}
+.cm-s-solarized.cm-s-light span.cm-number {color: #9b859d;}
+
+.cm-s-solarized.cm-s-light span.cm-property, .cm-s-solarized.cm-s-light span.cm-attribute {color: #54be0d;}
+.cm-s-solarized.cm-s-light span.cm-keyword {color: #cf6a4c;}
+.cm-s-solarized.cm-s-light span.cm-string {color: #f9ee98;}
+
+.cm-s-solarized.cm-s-light span.cm-variable {color: #54be0d;}
+.cm-s-solarized.cm-s-light span.cm-variable-2 {color: #5ea6ea;}
+.cm-s-solarized.cm-s-light span.cm-def {color: #cf7d34;}
+.cm-s-solarized.cm-s-light span.cm-error {background: #cf6a4c; color: #797977;}
+.cm-s-solarized.cm-s-light span.cm-bracket {color: #9d9b97;}
+.cm-s-solarized.cm-s-light span.cm-tag {color: #cf6a4c;}
+.cm-s-solarized.cm-s-light span.cm-link {color: #9b859d;}
+
+.cm-s-solarized.cm-s-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
+.cm-s-solarized.cm-s-light .CodeMirror-activeline-background { background: #404040; }

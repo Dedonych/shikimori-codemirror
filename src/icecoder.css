@@ -1,0 +1,40 @@
+.cm-s-solarized.cm-s-light .CodeMirror-search-field{ color: #666; background: #1d1d1b; }
+.cm-s-solarized.cm-s-light.CodeMirror {color: #666; background: #1d1d1b;  color-scheme: dark;}
+
+.cm-s-solarized.cm-s-light span.cm-keyword { color: #eee; font-weight:bold; }  
+.cm-s-solarized.cm-s-light span.cm-atom { color: #e1c76e; }                    
+.cm-s-solarized.cm-s-light span.cm-number { color: #6cb5d9; }                  
+.cm-s-solarized.cm-s-light span.cm-def { color: #b9ca4a; }                     
+
+.cm-s-solarized.cm-s-light span.cm-variable { color: #6cb5d9; }                
+.cm-s-solarized.cm-s-light span.cm-variable-2 { color: #cc1e5c; }              
+.cm-s-solarized.cm-s-light span.cm-variable-3, .cm-s-solarized.cm-s-light span.cm-type { color: #f9602c; } 
+
+.cm-s-solarized.cm-s-light span.cm-property { color: #eee; }                   
+.cm-s-solarized.cm-s-light span.cm-operator { color: #9179bb; }                
+.cm-s-solarized.cm-s-light span.cm-comment { color: #97a3aa; }                 
+
+.cm-s-solarized.cm-s-light span.cm-string { color: #b9ca4a; }                  
+.cm-s-solarized.cm-s-light span.cm-string-2 { color: #6cb5d9; }                
+
+.cm-s-solarized.cm-s-light span.cm-meta { color: #555; }                       
+
+.cm-s-solarized.cm-s-light span.cm-qualifier { color: #555; }                  
+.cm-s-solarized.cm-s-light span.cm-builtin { color: #214e7b; }                 
+.cm-s-solarized.cm-s-light span.cm-bracket { color: #cc7; }                    
+
+.cm-s-solarized.cm-s-light span.cm-tag { color: #e8e8e8; }                     
+.cm-s-solarized.cm-s-light span.cm-attribute { color: #099; }                  
+
+.cm-s-solarized.cm-s-light span.cm-header { color: #6a0d6a; }                  
+.cm-s-solarized.cm-s-light span.cm-quote { color: #186718; }                   
+.cm-s-solarized.cm-s-light span.cm-hr { color: #888; }                         
+.cm-s-solarized.cm-s-light span.cm-link { color: #e1c76e; }                    
+.cm-s-solarized.cm-s-light span.cm-error { color: #d00; }                      
+
+.cm-s-solarized.cm-s-light .CodeMirror-cursor { border-left: 1px solid white; }
+.cm-s-solarized.cm-s-light div.CodeMirror-selected { color: #fff; background: #037; }
+.cm-s-solarized.cm-s-light .CodeMirror-gutters { background: #1d1d1b; min-width: 41px; border-right: 0; }
+.cm-s-solarized.cm-s-light .CodeMirror-linenumber { color: #555; cursor: default; }
+.cm-s-solarized.cm-s-light .CodeMirror-matchingbracket { color: #fff !important; background: #555 !important; }
+.cm-s-solarized.cm-s-light .CodeMirror-activeline-background { background: #000; }
