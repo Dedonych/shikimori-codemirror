@@ -12,5 +12,5 @@
 Дальше, выбирайте себе тему какая понравится, и, по названию ищите в папке `src` и вставляйте в свой редактор:
 
 ```css
-@import ("https://raw.githubusercontent.com/Dedonych/shikimori-CodeMirror/master/src/название-темы.css");
+@import url("https://raw.githubusercontent.com/Dedonych/shikimori-CodeMirror/master/src/название-темы.css");
 ```
